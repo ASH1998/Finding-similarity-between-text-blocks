@@ -16,4 +16,5 @@ even though we have changed only a word it says similarity is 0
 
 
 ![sp2](https://user-images.githubusercontent.com/23384411/30372610-0498b846-989c-11e7-912d-d522d73c5c4e.PNG)
+
 here also "i am sleeping" and "i will sleep" are given 1 as rating because of stemming although these are a little different.
