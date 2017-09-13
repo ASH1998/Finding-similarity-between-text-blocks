@@ -5,6 +5,7 @@ This is a program to find similarity between to text blocks
 Python  
 Jupyter(for viewing this source)  
 nltk(natural language processing library) 
+
 sklearn(words to vec conversion)  
 
 
